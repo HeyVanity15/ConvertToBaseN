@@ -1,0 +1,11 @@
+c:\users\austin\documents\visual studio 2015\Projects\ConvertToBaseN\ConvertToBaseN\bin\Release\ConvertToBaseN.exe.config
+c:\users\austin\documents\visual studio 2015\Projects\ConvertToBaseN\ConvertToBaseN\bin\Release\ConvertToBaseN.exe
+c:\users\austin\documents\visual studio 2015\Projects\ConvertToBaseN\ConvertToBaseN\bin\Release\ConvertToBaseN.pdb
+c:\users\austin\documents\visual studio 2015\Projects\ConvertToBaseN\ConvertToBaseN\obj\Release\ConvertToBaseN.exe
+c:\users\austin\documents\visual studio 2015\Projects\ConvertToBaseN\ConvertToBaseN\obj\Release\ConvertToBaseN.pdb
+G:\Austin\Projects\Visual_Studio\ConvertToBaseN\ConvertToBaseN\bin\Release\ConvertToBaseN.exe.config
+G:\Austin\Projects\Visual_Studio\ConvertToBaseN\ConvertToBaseN\obj\Release\ConvertToBaseN.exe
+G:\Austin\Projects\Visual_Studio\ConvertToBaseN\ConvertToBaseN\obj\Release\ConvertToBaseN.pdb
+G:\Austin\Projects\Visual_Studio\ConvertToBaseN\ConvertToBaseN\bin\Release\ConvertToBaseN.exe
+G:\Austin\Projects\Visual_Studio\ConvertToBaseN\ConvertToBaseN\bin\Release\ConvertToBaseN.pdb
+G:\Austin\Projects\Visual_Studio\ConvertToBaseN\ConvertToBaseN\obj\Release\ConvertToBaseN.csprojResolveAssemblyReference.cache
